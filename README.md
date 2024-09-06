@@ -33,7 +33,7 @@ This project is a simple user authentication system built with Flask, SQLAlchemy
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/simran911/Login_page.git
 
 
 ### Install dependencies:
@@ -51,12 +51,11 @@ python app.py
 
 ### Project Structure
 
-.
-├── app.py                # Main Flask application
-├── models.py             # SQLAlchemy models
-├── templates/
-│   ├── register.html     # User registration page
-│   ├── login.html        # User login page
-│   └── home.html         # Home page
-└── static/
-    └── styles.css        # Styling for templates
+├──auth
+ ├── templates/
+    ├── register.html     # User registration page
+    ├── login.html        # User login page
+    ├── front_page.html       # Home page 
+    └── dashboard.html
+ ├── app.py   
+
