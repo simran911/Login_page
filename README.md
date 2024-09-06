@@ -16,6 +16,7 @@ This project is a simple user authentication system built with Flask, SQLAlchemy
 - User Login
 - ![Screenshot 2024-09-06 195837](https://github.com/user-attachments/assets/5b961388-4cec-42b1-8749-084a8980ef22)    
 - User Logout
+- ![Screenshot 2024-09-06 195856](https://github.com/user-attachments/assets/0c349c2f-d038-4f85-ae2d-22b1f15a5bf2)
 
 - Password Hashing for Security
 - User Session Management
