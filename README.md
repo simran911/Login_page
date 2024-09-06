@@ -10,7 +10,7 @@ This project is a simple user authentication system built with Flask, SQLAlchemy
 
 
 - User Registration
-
+![Screenshot 2024-09-06 194350](https://github.com/user-attachments/assets/0ed7d2bf-7df5-4bb1-b94e-de6f937f9d38)
 
 
 - User Login
